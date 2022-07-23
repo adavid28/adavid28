@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adavid28
-- 👀 I’m interested in a work-study program in computer science in Lille
+- 👀 I’m interested in a work-study program in web devlopment in Lille
 - 🌱 I’m currently learning computer science at the ESGI in Lille
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : davidachille18@gmail.com
